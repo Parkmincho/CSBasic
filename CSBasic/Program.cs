@@ -31,7 +31,7 @@ namespace CSBasic
             Console.WriteLine("\"\"\"");
 
             Console.WriteLine("가" + "나" + "다");
-            Console.WriteLine("안녕"[100]);
+//            Console.WriteLine("안녕"[100]);
 
             Console.WriteLine(true);
         }
